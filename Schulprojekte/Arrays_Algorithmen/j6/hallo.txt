@@ -1,0 +1,52 @@
+Ein Wiki (hawaiisch für „schnell“)[1] ist eine Website, deren Inhalte von den Besuchern nicht nur gelesen, sondern auch direkt im Webbrowser bearbeitet und geändert werden können (Web-2.0-Anwendung).
+
+Das Ziel ist häufig, Erfahrung und Wissen gemeinschaftlich zu sammeln (kollektive Intelligenz) und in für die Zielgruppe verständlicher Form zu dokumentieren. Die Autoren erarbeiten hierzu gemeinschaftlich Texte, die ggf. durch Fotos oder andere Medien ergänzt werden (kollaboratives Schreiben, E-Collaboration). Ermöglicht wird dies durch ein vereinfachtes Content-Management-System, die sogenannte Wiki-Software oder Wiki-Engine.
+
+Das bekannteste Wiki ist die Online-Enzyklopädie Wikipedia, welche die Wiki-Software MediaWiki einsetzt. Zudem nutzen auch viele Unternehmen Wikis als Teil des Wissensmanagementsystems in ihrem Intranet (standortübergreifend), siehe Enterprise Wiki. Ein einzelnes Dokument, eine Wiki-Seite, kann mit wenigen Klicks (Button Bearbeiten und Button Speichern oder Veröffentlichen) geändert werden. Zu diesem Zweck ist die Wiki-Seite zumeist in Form von Wikitext, einer leicht erlernbaren Auszeichnungssprache, gespeichert.
+
+Die Abbildung rechts oben zeigt den Wikitext dieser Wiki-Seite im Bearbeitungs-Modus.
+Inhaltsverzeichnis
+
+    1 Name
+    2 Definition
+    3 Funktionsweise
+    4 Einteilungen von Wikis
+    5 Geschichte und Anwendungen
+        5.1 Vorläufer
+        5.2 „WikiWikiWeb“
+        5.3 Wikis in den späten 1990er Jahren
+        5.4 Wikipedia und die Popularisierung des Konzeptes: 2001 bis 2005
+        5.5 Wikis als Massenmedien: Entwicklung ab 2005
+        5.6 Wikis in Organisationen: Entwicklung ab 2007
+            5.6.1 Unternehmenswikis
+            5.6.2 Wikis im Bildungssektor
+            5.6.3 Wiki der Technikgeschichte
+        5.7 Wikis für die Politik
+    6 Wiki-Software
+        6.1 Benutzerfreundlichkeit
+        6.2 Wissensmanagement-Funktionen
+        6.3 Benutzerrechte-Management
+        6.4 Investitionssicherheit
+    7 Siehe auch
+    8 Literatur
+    9 Weblinks
+    10 Einzelnachweise
+
+Name
+Definition von wiki in Andrews’ A Dictionary of the Hawaiian Language (1865)
+Wiki-Wiki-Bus am Flughafen Honolulu
+
+Der Miterfinder der Wikis, Ward Cunningham, wählte den Namen Wiki wegen einer Reise nach Hawaii. Bei der Ankunft am Flughafen auf Oʻahu sah er die Bezeichnung Wiki Wiki für den dortigen Schnellbus. Dabei übernahm er die Verdoppelung, die im Hawaiischen für eine Steigerung („sehr schnell“) steht. Cunningham betrachtet Wiki als eine Abkürzung für den eigentlichen Namen seines Wikis, WikiWikiWeb.[2]
+
+Da der Ausdruck also älter ist als das Wiki-Konzept oder die Wikipedia, erscheint er dementsprechend bereits in älteren Wörterbüchern und auch beim Schriftsteller Jack London. In seinem Werk Martin Eden von 1908 heißt es: „Das ist mein Neuestes, ganz anders als alles was ich bisher gemacht habe … Es ist eine Hawaii-Geschichte. Genannt habe ich sie Wiki-Wiki.“[3]
+
+Wegen ihres Erfolgs denken die meisten Menschen beim Ausdruck Wiki an die Wikipedia. Oftmals verwenden sie den Ausdruck sogar als Abkürzung für die Wikipedia, ohne zu wissen, dass es sich dabei um die Bezeichnung für eine bestimmte Art von Software und ihre Anwendung handelt.
+Definition
+Visualisierung der kollaborativen Arbeit am Wiki-Projekt „Mathe für Nicht-Freaks“
+
+Es gibt keine allgemein anerkannte Definition für Wikis und keine Einigkeit darüber, welche Merkmale ein Wiki ausmachen. Manche der in der Literatur angeführten Merkmale sind unbestimmt (wie „Einfachheit“) oder nicht ausschließlich für Wikis bedeutsam (wie die Versionierung von Seiteninhalt). Beispielsweise ist eine Verlinkung der Seiten zum Hypertext typisch für viele Wikis, aber nicht zwingend: Ein Wiki kann auch wie ein Handbuch mit einer allgemeinen Gliederung organisiert sein. Weitere diskutierte Merkmale heißen Offenheit, Kollaboration und Selbstbestimmtheit.[4]
+
+In ihrem 2001 veröffentlichten Buch „The Wiki Way: Quick Collaboration on the Web“ beschrieben Bo Leuf und Wiki-Miterfinder Ward Cunningham die grundlegenden Eigenschaften eines Wikis (frei übersetzt) wie folgt:[5]
+
+    „Ein Wiki lädt alle Nutzer – nicht nur Experten – ein, jede Seite zu bearbeiten oder neue Seiten innerhalb des Wikis zu erstellen, und das nur mit einem standardmäßigen 'schlichten' Webbrowser ohne zusätzliche Add-ons.“
+    „Ein Wiki fördert sinnvolle thematische Verknüpfungen zwischen verschiedenen Seiten, indem es die Erstellung von S
